@@ -1,0 +1,10 @@
+{
+    "name": "com.dtd.soeventsystem",
+    "version": "1.0.0",
+    "displayName": "SO Event System",
+    "description": "Event system using ScriptableObject",
+    "author": {
+        "name": "Dinh Trong Dat",
+        "email": "trongdat1512@gmail.com"
+    }
+}
